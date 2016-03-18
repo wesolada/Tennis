@@ -1,0 +1,9 @@
+c:\users\adam wesolowicz\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Debug\Tennis.exe.config
+c:\users\adam wesolowicz\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Debug\Tennis.exe
+c:\users\adam wesolowicz\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Debug\Tennis.pdb
+c:\users\adam wesolowicz\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.csprojResolveAssemblyReference.cache
+c:\users\adam wesolowicz\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.exe
+c:\users\adam wesolowicz\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.pdb
+C:\Projekty\Tennis\Tennis\bin\Debug\Tennis.exe.config
+C:\Projekty\Tennis\Tennis\obj\Debug\Tennis.exe
+C:\Projekty\Tennis\Tennis\obj\Debug\Tennis.pdb
